@@ -1,0 +1,24 @@
+Feature,Coefficient
+promo_catalogue,0.0
+promo_ins,0.023458784806114887
+display_platinum,0.0
+display_gold,0.0
+display_silver,0.0
+display_bronze,0.0
+Wtd.Selling.Dist,0.03423038301229269
+Weighted_Price,0.0
+Seasonal_index,0.1402591914250501
+Retailer 0_Promo.Group 20_display_bronze,-0.02957723523432515
+Retailer 0_Promo.Group 20_promo_ins,0.026557087544543997
+Retailer 0_Promo.Group 3_Weighted_Price,-0.001113504748921014
+Retailer 0_Promo.Group 3_display_bronze,-0.030842779745630846
+Retailer 0_Promo.Group 5_promo_catalogue,0.01329217395348154
+Retailer 0_Promo.Group 6_Weighted_Price,0.0005257627642944525
+Retailer 0_Promo.Group 6_Wtd.Selling.Dist,-0.03901945733887224
+Retailer 1_Promo.Group 19_Weighted_Price,-0.01081704378831534
+Retailer 1_Promo.Group 19_display_silver,0.0022459520817739676
+Retailer 1_Promo.Group 20_Weighted_Price,0.0016054461637006073
+Retailer 1_Promo.Group 20_Wtd.Selling.Dist,-0.02331969496587982
+Retailer 1_Promo.Group 6_Weighted_Price,-0.0006300504974102229
+Retailer 1_Promo.Group 6_Wtd.Selling.Dist,0.007782914184335975
+Intercept,4.025471592289098

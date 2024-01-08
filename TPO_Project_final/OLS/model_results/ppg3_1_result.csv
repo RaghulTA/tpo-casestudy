@@ -1,0 +1,13 @@
+Feature,Coefficient
+promo_catalogue,10.942066720000717
+promo_ins,1.5717167696267795
+display_platinum,9.418157609266714
+display_gold,1.5162620746348505
+display_silver,2.350831501691082
+display_bronze,1.056431635908422
+Wtd.Selling.Dist,0.06262380763975434
+Weighted_Price,-0.5337740114666658
+Seasonal_index,10.023724813290974
+Retailer 1_Promo.Group 19_display_silver,1.2074646370604527
+Retailer 1_Promo.Group 20_display_platinum,1.3817582684005452
+Intercept,-1.666681531898135
