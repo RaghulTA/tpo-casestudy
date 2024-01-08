@@ -74,9 +74,6 @@ The problem statements focus on answering, How different promotions are affectin
     ```
     * Calculator for distribution of sales.xlsx file contains calculator for calculating volume sales based on custom input for each model.
 
-    * Once it is activated we can run the script sequentially.
-
-    
 
 ## Conclusion
 * The README acts as a roadmap to comprehend the project's layout and the role of each directory and file. Delve into the outputs to gain deeper insights into the analysis of trade promotions.
